@@ -1,5 +1,5 @@
 Intel Wireless Bluetooth
-DriverVer = 03/04/2026,24.30.1.1
+DriverVer = 04/03/2026,24.30.1.1
 USB\VID_8087&PID_0036&REV_0000
 USB\VID_8087&PID_0036&REV_0001
 http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2026/03/2d4b3f97-a4f7-48e2-847d-5c9fa4ef1fd1_c58f2f50d96410170bc9f78f20c0366a4b87b10e.cab
