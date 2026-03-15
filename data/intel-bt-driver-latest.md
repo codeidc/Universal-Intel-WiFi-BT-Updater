@@ -1,6 +1,6 @@
 # Intel Wireless Bluetooth Drivers Latest
 
-Latest Version = 24.30.1.1
+Latest Version = 24.30.1.1  
 Release Date = 04/03/2026
 
 ## Supported Devices
