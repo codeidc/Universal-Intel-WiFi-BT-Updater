@@ -18,14 +18,14 @@ For detailed documentation and guides, see:
 
 ⭐ If this project helped you, please click the "Star" button at the top of this page on GitHub.  
 👉 [Share your feedback!](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/discussions)
-
+<!--
 ---
 
 - Official threads on the following forums: **[TechPowerUp](https://www.techpowerup.com/forums/)**, **[Win-Raid](https://winraid.level1techs.com/)**, **[Station-Drivers](https://www.station-drivers.com/)**, **[ElevenForum](https://www.elevenforum.com/)** and **[WinClub](https://winclub.pl/)**.
 - For transparency and additional verification, the project is listed on: **[MajorGeeks](https://www.majorgeeks.com/)**, **[Softpedia](https://www.softpedia.com/)** and **[Instalki](https://www.instalki.pl/)**.
 
 ---
-
+--->
 ## 💼 Career Opportunity
 
 > [!TIP]
