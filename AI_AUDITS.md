@@ -12,13 +12,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-9.7%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **9.7/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **9.7/10** | [2026-03-16-CHATGPT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CHATGPT-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-CHATGPT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CHATGPT-AUDIT.md) |
 
 ---
 
@@ -26,13 +26,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-9.1%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **9.1/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **9.1/10** | [2026-03-16-CLAUDE-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CLAUDE-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-CLAUDE-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CLAUDE-AUDIT.md) |
 
 ---
 
@@ -40,13 +40,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-9.5%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **9.5/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **9.5/10** | [2026-03-16-COPILOT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-COPILOT-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-COPILOT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-COPILOT-AUDIT.md) |
 
 ---
 
@@ -54,13 +54,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-9.4%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **9.4/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **9.4/10** | [2026-03-16-DEEPSEEK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-DEEPSEEK-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-DEEPSEEK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-DEEPSEEK-AUDIT.md) |
 
 ---
 
@@ -68,13 +68,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-10%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **10/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **10/10** | [2026-03-16-GEMINI-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GEMINI-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-GEMINI-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GEMINI-AUDIT.md) |
 
 ---
 
@@ -82,13 +82,13 @@ All reviewers confirmed the multi-layer verification architecture. Note: Claude 
 
 ![Security Audit](https://img.shields.io/badge/Audit_Score-9.9%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **9.9/10**
+**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
 
 *Full audit summary to be added.*
 
 | Audit Date | Version | Score | Full Report |
 |------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **9.9/10** | [2026-03-16-GROK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GROK-AUDIT.md) |
+| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-GROK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GROK-AUDIT.md) |
 
 ---
 
@@ -107,13 +107,13 @@ To add a new audit cycle, append a row to each auditor's history table and updat
 
 | Auditor | Mar 2026 | Trend | Notes |
 |---------|----------|-------|-------|
-| ChatGPT | **9.7** | — | Consistently high; tends toward optimistic scoring |
-| Claude | **9.1** | — | Most critical reviewer; lowest scores in the series |
-| Copilot | **9.5** | — | Strong improvement recognition |
-| DeepSeek | **9.4** | — | Consistent mid-range scoring; balanced methodology |
-| Gemini | **10.0** | — | Most generous reviewer; perfect score reflects lenient criteria |
-| Grok | **9.9** | — | Highest baseline; limited score differentiation between cycles |
-| **Average** | **9.6** | — | |
+| ChatGPT | **N/A** | — | Consistently high; tends toward optimistic scoring |
+| Claude | **N/A** | — | Most critical reviewer; lowest scores in the series |
+| Copilot | **N/A** | — | Strong improvement recognition |
+| DeepSeek | **N/A** | — | Consistent mid-range scoring; balanced methodology |
+| Gemini | **N/A** | — | Most generous reviewer; perfect score reflects lenient criteria |
+| Grok | **N/A** | — | Highest baseline; limited score differentiation between cycles |
+| **Average** | **N/A** | — | |
 
 ---
 
