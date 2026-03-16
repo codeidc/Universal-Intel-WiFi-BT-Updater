@@ -343,7 +343,7 @@ Install from PowerShell Gallery (Run PowerShell as Administrator):
 Install-Script universal-intel-wifi-bt-driver-updater
 ```
 
-Manual update from PowerShell Gallery for v2025.11.0001 (Run PowerShell as Administrator):
+Manual update from PowerShell Gallery for v24.0-2025.11.0 (Run PowerShell as Administrator):
 ```powershell
 Update-Script -Name universal-intel-wifi-bt-driver-updater
 ```
