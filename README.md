@@ -158,7 +158,7 @@ For detailed documentation and guides, see:
 <a id="previous-releases"></a>
 ### 2.2 Previous Releases
 
-**v24.0 (2025.11)** — Legacy release (BAT + PS1 launcher)
+**v2025.11.0001 (old v2025.11)** → Legacy release (BAT + PS1 launcher)
 
 ### 🆕 **Highlights**
 
@@ -174,7 +174,7 @@ For detailed documentation and guides, see:
 <a id="older-releases"></a>
 ### 2.3 Older Releases
 
-- v24.0 (2025.11) → [Release Notes](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/releases/tag/v24.0-2025.11)
+**v2025.11.0001 (old v2025.11)** → [Release Notes](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/releases/tag/v24.0-2025.11)
 
 
 [↑ Back to top](#top)
