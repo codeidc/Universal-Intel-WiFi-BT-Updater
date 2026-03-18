@@ -497,6 +497,8 @@ universal-intel-wifi-bt-driver-updater
 - [intel-bt-drivers-download.txt](data/intel-bt-drivers-download.txt) - Bluetooth download links
 
 `docs/` - Documentation
+- [HOW-TO-VERIFY-DRIVERS_EN_2026.md](docs/HOW-TO-VERIFY-DRIVERS_EN_2026.md) - Manual Driver version verification guide (English)
+- [HOW-TO-VERIFY-DRIVERS_PL_2026.md](docs/HOW-TO-VERIFY-DRIVERS_PL_2026.md) - Manual Driver version verification guide (Polish)
 - [MDM-DEPLOYMENT-GUIDE_EN_2026.md](docs/MDM-DEPLOYMENT-GUIDE_EN_2026.md) - Deploying the Tool via MDM (English)
 - [MDM-DEPLOYMENT-GUIDE_PL_2026.md](docs/MDM-DEPLOYMENT-GUIDE_PL_2026.md) - Deploying the Tool via MDM (Polish)
 - [NEW-RELEASE-GUIDE_EN_2026.md](docs/NEW-RELEASE-GUIDE_EN_2026.md) - New Release Guide (English)
