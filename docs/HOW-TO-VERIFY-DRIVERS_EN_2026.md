@@ -18,7 +18,7 @@ Choose one of the following methods:
 
 #### 2. Find an Intel Wi‑Fi or Bluetooth device
 - Expand the **“Network adapters”** section for Wi‑Fi devices, or **“Bluetooth”** section for Bluetooth devices.
-- Look for any entry with **“Intel”**, **“Wi‑Fi”**, **“Wireless”**, **“Bluetooth”** etc. in its name.
+- Look for any entry with **“Intel”** + **“Wi‑Fi”** or **“Bluetooth”** in its name.
 - Often the name already contains the hardware model – for example: `Intel(R) Wi‑Fi 7 BE200 320MHz` or `Intel(R) Wireless Bluetooth(R)`. The exact Hardware ID can be found in the next step.
 
 <img width="781" height="350" alt="image" src="https://github.com/user-attachments/assets/6f9572ee-72e7-4816-9a8b-ccd7b354c616" />
