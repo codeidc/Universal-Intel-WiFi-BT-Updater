@@ -37,7 +37,7 @@ Część po **`DEV_`** (tutaj **`272B`**) lub **`PID_`** (tutaj **`0036`**) jest
 ---
 
 #### 4. Sprawdź urządzenie w bazach danych, które prowadzę na GitHubie
-Otwórz bazę w przeglądarce, od razu zobaczysz **datę i wersję sterownika** oficjalnie wydane przez Intel.
+Otwórz bazę danych w przeglądarce, a natychmiast zobaczysz najnowszą wersję sterownika i datę wydania.
 
 ### **[Najnowsze sterowniki Intel Wi-Fi](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/data/intel-wifi-driver-latest.md)**
 
