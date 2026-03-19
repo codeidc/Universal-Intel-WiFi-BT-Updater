@@ -28,10 +28,10 @@ Choose one of the following methods:
 #### 3. If the HWID is not in the name, check the Hardware IDs property
 - Right‑click the device → **Properties** → **Details** tab.
 - In the **Property** dropdown, select **“Hardware Ids”**.
-- You will see something like: `PCI\VEN_8086&DEV_51F1&CC_0280` for Wi‑Fi or `USB\VID_8086&PID_0035` for Bluetooth.  
-  The part after **`DEV_`** (here **`51F1`**) or **`PID_`** is the most important identifier.
+- You will see something like: `PCI\VEN_8086&DEV_272B&CC_0280` for Wi‑Fi or `USB\VID_8087&PID_0036` for Bluetooth.  
+  The part after **`DEV_`** (here **`272B`**) or **`PID_`** is the most important identifier (here **`0036`**).
 
-<img width="441" height="290" alt="Properties window with Hardware Ids selected showing PCI device ID" src="https://github.com/user-attachments/assets/bb9d2ac3-27c0-4af8-b469-0d40f853386d" />
+<img width="800" height="473" alt="image" src="https://github.com/user-attachments/assets/d92bd36b-5c5d-4310-bf06-23798f205515" />
 
 ---
 
