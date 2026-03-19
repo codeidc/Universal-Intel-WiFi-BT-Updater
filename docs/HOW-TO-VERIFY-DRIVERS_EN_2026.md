@@ -36,20 +36,18 @@ Choose one of the following methods:
 ---
 
 #### 4. Look up the device in the databases I maintain on GitHub
-Open the appropriate file in your browser:
+Open the **Wi‑Fi drivers** database in your browser 👉 **[intel-wifi-driver-latest.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/data/intel-wifi-driver-latest.md)**
 
-- **Wi‑Fi drivers:**  
-  👉 **[intel-wifi-driver-latest.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/data/intel-wifi-driver-latest.md)**
-- **Bluetooth drivers:**  
-  👉 **[intel-bt-driver-latest.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/data/intel-bt-driver-latest.md)**
+<img width="640" height="350" alt="The latest Intel Wi-Fi driver in database on GitHub" src="https://github.com/user-attachments/assets/d6827ff1-748f-4caa-8910-69e0ec7ca91b" />
+ 
+Open the **Bluetooth drivers** database in your browser 👉 **[intel-bt-driver-latest.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/data/intel-bt-driver-latest.md)**
 
-Press **Ctrl+F** and search for the device model (e.g. `AX211`) or the device ID part (e.g. `51F1`).
+<img width="640" height="350" alt="The latest Intel Bluetooth driver in database on GitHub" src="https://github.com/user-attachments/assets/cec208e4-df8a-4f74-bcea-126f6f985e58" />
 
-<img width="891" height="194" alt="Searching for AX211 in the driver database on GitHub" src="https://github.com/user-attachments/assets/3f73a395-96f3-4aca-8c0d-2eb235e1b368" />
+Press **Ctrl+F** and search for the device model (e.g. `272B`) or the device ID part (e.g. `0036`).
 
 You will immediately see:
 - ✅ The **latest driver version** for that device,
-- ✅ Which (latest) **driver package** (CAB file) contains it,
 - ✅ The **driver date and version** as officially released by Intel.
 
 > **Note:** If your device is very old or no longer supported by Intel, it may not appear in these databases.
