@@ -507,7 +507,7 @@ universal-intel-wifi-bt-driver-updater
 - [POWERSHELL-GALLERY-PUBLISHING_EN_2026.md](docs/POWERSHELL-GALLERY-PUBLISHING_EN_2026.md) - PowerShell Gallery Publishing Guide (English)
 - [POWERSHELL-GALLERY-PUBLISHING_PL_2026.md](docs/POWERSHELL-GALLERY-PUBLISHING_PL_2026.md) - PowerShell Gallery Publishing Guide (Polish)
 
-`docs/audit-reports-2026-03-16/` - AI audit reports
+`docs/audit-reports-2026-03-19/` - AI audit reports
 
   - [2026-03-19-CHATGPT-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-CHATGPT-AUDIT.md)
   - [2026-03-19-CLAUDE-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-CLAUDE-AUDIT.md)
