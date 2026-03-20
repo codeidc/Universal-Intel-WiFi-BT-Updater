@@ -192,7 +192,7 @@ This project has been reviewed by multiple AI systems using structured security 
 | Auditor | Mar 2026 | Notes |
 |---------|----------|-------|
 | ChatGPT | **9.5** | Consistently high; tends toward optimistic scoring |
-| Claude | **8.7** | Most critical reviewer |
+| Claude | **8.9** | Most critical reviewer |
 | Copilot | **9.4** | Strong improvement recognition |
 | DeepSeek | **9.4** | Balanced methodology |
 | Gemini | **10.0**| Most generous reviewer |
