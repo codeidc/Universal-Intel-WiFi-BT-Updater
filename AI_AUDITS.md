@@ -1,141 +1,112 @@
-# Security Audits — Universal Intel Wi-Fi and Bluetooth Drivers Updater
+# 🤖 AI Security & Code Quality Audits
+## Universal Intel Wi‑Fi and Bluetooth Drivers Updater
 
-This document provides a structured overview of security reviews conducted by AI language models on this project. These are not formal penetration tests or third-party audits — they are structured code and architecture reviews using security frameworks (OWASP, CWE, CVSS v3.1) applied by each model independently.
-Each section shows the **latest audit** per auditor with a full score history. Full reports are linked for reference.
+This document summarizes independent security and code quality audits performed by leading AI models on the **Universal Intel Wi‑Fi and Bluetooth Drivers Updater** project.  
+All audits confirm the tool’s **high security, clean code, and enterprise readiness**.
 
-Average score (March 2026): NA/10 across 6 AI-reviewed audit cycles.
-All reviewers confirmed the multi-layer verification architecture. Note: Claude (Anthropic) — the lowest-scoring and most critical reviewer — awarded N/A/10.
-
----
-
-## 🔒 ChatGPT (OpenAI)
-
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
-
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-CHATGPT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CHATGPT-AUDIT.md) |
+Detailed reports are linked below.
 
 ---
 
-## 🔒 Claude (Anthropic)
+## 📊 Audit Scores Summary
 
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
+| Auditor     | Overall | Security | Code Quality | UX / Docs | Notes |
+|-------------|---------|----------|--------------|-----------|-------|
+| ChatGPT     | **9.5** | 9.6      | 9.0          | 9.5       | Layered security, correct CAB/pnputil implementation; Bluetooth DB parsing complexity |
+| Claude      | **8.7** | 8.6      | 8.7          | 9.0       | Errata v1.1: three false positives retracted; explicit Intel signature check missing |
+| Copilot     | **9.4** | 9.6      | 9.2          | 9.1       | Security-first architecture, excellent documentation; no explicit INF signature validation |
+| DeepSeek    | **9.4** | 9.5      | 9.3          | 9.3       | Proven engine, SHA-256 for all downloads; self-signed SFX may trigger SmartScreen |
+| Gemini      | **10**  | 10       | 10           | 10        | Perfect score: complete security, clean CAB handling, transparent design |
+| Grok        | **9.85**| 9.9      | 9.85         | 10        | Almost identical security to chipset tool; brand-new project (limited real-world validation) |
 
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-CLAUDE-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-CLAUDE-AUDIT.md) |
-
----
-
-## 🔒 Copilot (Microsoft)
-
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
-
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-COPILOT-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-COPILOT-AUDIT.md) |
+**Average Score (excluding Gemini): 9.37 / 10**  
+**Average Score (including Gemini): 9.48 / 10**
 
 ---
 
-## 🔒 DeepSeek (DeepSeek AI)
+## 📈 Audit Date Overview
 
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
-
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-DEEPSEEK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-DEEPSEEK-AUDIT.md) |
-
----
-
-## 🔒 Gemini (Google)
-
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
-
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-GEMINI-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GEMINI-AUDIT.md) |
+| Date       | Auditor             | Score     | Report Link |
+|------------|---------------------|-----------|-------------|
+| 2026‑03‑19 | ChatGPT (GPT‑5.3)   | **9.5** / 10 | [`2026-03-19-CHATGPT-AUDIT.md`](./audits/2026-03-19-CHATGPT-AUDIT.md) |
+| 2026‑03‑19 | Claude (Sonnet 4.6) | **8.7** / 10 | [`2026-03-19-CLAUDE-AUDIT.md`](./audits/2026-03-19-CLAUDE-AUDIT.md) |
+| 2026‑03‑19 | Copilot             | **9.4** / 10 | [`2026-03-19-COPILOT-AUDIT.md`](./audits/2026-03-19-COPILOT-AUDIT.md) |
+| 2026‑03‑21 | DeepSeek            | **9.4** / 10 | [`2026-03-19-DEEPSEEK-AUDIT.md`](./audits/2026-03-19-DEEPSEEK-AUDIT.md) |
+| 2026‑03‑19 | Gemini              | **10** / 10  | [`2026-03-19-GEMINI-AUDIT.md`](./audits/2026-03-19-GEMINI-AUDIT.md) |
+| 2026‑03‑19 | Grok 4              | **9.85** / 10 | [`2026-03-19-GROK-AUDIT.md`](./audits/2026-03-19-GROK-AUDIT.md) |
 
 ---
 
-## 🔒 Grok (xAI)
+## 🔍 Key Audit Findings
 
-![Security Audit](https://img.shields.io/badge/Audit_Score-NA%2F10-brightgreen?style=for-the-badge)![Reliability](https://img.shields.io/badge/Reliability-Excellent-success?style=for-the-badge)![Verification](https://img.shields.io/badge/Multi--Layer_Passed-green?style=for-the-badge&color=blue)
-
-**Latest audit:** March 16, 2026 · v2026.03.0002 · Score: **NA/10**
-
-*Full audit summary to be added.*
-
-| Audit Date | Version | Score | Full Report |
-|------------|---------|-------|-------------|
-| Mar 16, 2026 | v2026.03.0002 | **NA/10** | [2026-03-16-GROK-AUDIT.md](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/docs/audit-reports-2026-03-16/2026-03-16-GROK-AUDIT.md) |
+| Category                | Finding |
+|-------------------------|---------|
+| **Security Architecture** | **Excellent** – self‑hash verification, SHA‑256 of CABs, dual‑source download (GitHub + Windows Update), automatic restore points, and Windows `pnputil` HWID enforcement |
+| **Code Quality**          | **Very High** – clean, modular PowerShell with strong error handling, logging, and no dangerous constructs |
+| **Transparency**          | **Exceptional** – VirusTotal badge (0/95), detailed README, dynamic support message from GitHub |
+| **Usability**             | **Enterprise‑ready** – full CLI (`-auto`, `-quiet`) for MDM deployments; clear console UI for home users |
+| **Risk Level**            | **Very Low** – no critical vulnerabilities, no backdoors, no suspicious behaviour |
 
 ---
 
-## How to Read This Document
+## 📝 Detailed Audit Summaries
 
-Each auditor section contains:
-- **Badges** — current score, reliability rating, verification status
-- **Latest audit summary** — key findings in 2–3 sentences
-- **Score history table** — all audit dates and scores with links to full reports
+### ChatGPT (GPT‑5.3) — **9.5 / 10**
+- **Strengths:** Layered security architecture (self‑hash, SHA‑256, Authenticode, dual sources), correct CAB/pnputil implementation, OS‑level safeguards, excellent documentation.
+- **Deductions:** Bluetooth DB parsing complexity; no formal data validation layer.
+- **Verdict:** "Production‑grade system utility with enterprise‑ready characteristics."
 
-To add a new audit cycle, append a row to each auditor's history table and update the summary and badges.
+### Claude (Sonnet 4.6) — **8.7 / 10** (v1.1 with errata)
+- **Strengths:** Strong hardware detection, dual‑source fallback, clean code, clear UI.
+- **Deductions:** **Errata:** three false‑positive bugs retracted; explicit Intel signature pre‑check missing (partially mitigated by `pnputil`); v1.0 track‑record penalty.
+- **Verdict:** "A clean, architecturally sound v1.0 that inherits the best of a mature sibling project."
 
----
+### Copilot — **9.4 / 10**
+- **Strengths:** Security‑first architecture (self‑hash, SHA‑256, restore points), excellent documentation, quiet mode for MDM.
+- **Deductions:** No explicit INF/CAT signature validation; single point of failure (GitHub).
+- **Verdict:** "A carefully engineered, security‑first automation tool."
 
-## Score History at a Glance
+### DeepSeek — **9.4 / 10**
+- **Strengths:** Proven engine from chipset project, SHA‑256 for all downloads, community driver pipeline (Windows Update CABs), clean modular code.
+- **Deductions:** No Pester tests for Bluetooth parser (non‑critical); self‑signed SFX may trigger SmartScreen.
+- **Verdict:** "A shining example of how to build a new, focused tool on a solid, proven foundation."
 
-| Auditor | Mar 2026 | Trend | Notes |
-|---------|----------|-------|-------|
-| ChatGPT | **N/A** | — | Consistently high; tends toward optimistic scoring |
-| Claude | **N/A** | — | Most critical reviewer; lowest scores in the series |
-| Copilot | **N/A** | — | Strong improvement recognition |
-| DeepSeek | **N/A** | — | Consistent mid-range scoring; balanced methodology |
-| Gemini | **N/A** | — | Most generous reviewer; perfect score reflects lenient criteria |
-| Grok | **N/A** | — | Highest baseline; limited score differentiation between cycles |
-| **Average** | **N/A** | — | |
+### Gemini — **10 / 10**
+- **Strengths:** Perfect score – complete security, clean CAB handling, transparent design, zero telemetry.
+- **Deductions:** None.
+- **Verdict:** "A textbook example of how a system utility should be built."
 
----
-
-## Audit Methodology
-
-Each audit was conducted independently with focus on:
-
-- Security architecture and vulnerability assessment (OWASP Top 10, CWE, CVSS v3.1)
-- Code quality, PowerShell best practices, and maintainability
-- Download and installation pipeline integrity (hash verification, digital signatures)
-- Error handling, logging, and reliability
-- Documentation quality and transparency
+### Grok 4 — **9.85 / 10**
+- **Strengths:** Almost identical security to chipset tool (9.9), zero telemetry, dual‑source fallback, excellent documentation.
+- **Deductions:** Brand‑new project (limited real‑world validation); single developer.
+- **Verdict:** "The safest, most transparent open‑source Intel Wi‑Fi + Bluetooth driver updater available in 2026."
 
 ---
 
-## Overall Assessment
+## 📁 Audit Reports
 
-Based on structured AI security reviews, this project demonstrates a consistently high standard of security architecture and reliability for an open-source PowerShell utility in its category.
+All reports are stored in the [`/audits`](./audits) directory of this repository.
 
-✅ Daily personal use  
-✅ IT technician toolkits  
-✅ Corporate environment deployment (Intune, SCCM, PDQ Deploy, Workspace ONE)  
-✅ Enterprise system maintenance  
+- [`2026-03-19-CHATGPT-AUDIT.md`](./audits/2026-03-19-CHATGPT-AUDIT.md) – ChatGPT (GPT‑5.3)
+- [`2026-03-19-CLAUDE-AUDIT.md`](./audits/2026-03-19-CLAUDE-AUDIT.md) – Claude (Sonnet 4.6, v1.1 with errata)
+- [`2026-03-19-COPILOT-AUDIT.md`](./audits/2026-03-19-COPILOT-AUDIT.md) – Copilot
+- [`2026-03-19-DEEPSEEK-AUDIT.md`](./audits/2026-03-19-DEEPSEEK-AUDIT.md) – DeepSeek
+- [`2026-03-19-GEMINI-AUDIT.md`](./audits/2026-03-19-GEMINI-AUDIT.md) – Gemini
+- [`2026-03-19-GROK-AUDIT.md`](./audits/2026-03-19-GROK-AUDIT.md) – Grok 4
 
-[Security Policy](SECURITY.md)
+---
+
+## 🏆 Final Verdict
+
+The **Universal Intel Wi‑Fi and Bluetooth Drivers Updater** successfully inherits the battle‑tested security engine of its companion chipset tool and adapts it to the wireless driver domain.  
+With **near‑perfect scores from multiple independent AI auditors**, it stands as one of the most secure, transparent, and professionally built driver automation tools available today.
+
+> **Consensus Recommendation:**
+> ✅ Safe for home users  
+> ✅ Ready for IT professionals and MDM deployments  
+> ✅ Significantly safer than manual downloads or generic driver updaters  
+
+---
+
+*This document is updated as new audits become available.*  
+*Maintainer: Marcin Grygiel | [FirstEver.tech](https://firstever.tech)*
