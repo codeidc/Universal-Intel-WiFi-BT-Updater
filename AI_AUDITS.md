@@ -124,14 +124,14 @@ WHCP signature verification, per‑DEV Wi‑Fi blocks, legacy device support, an
 ## Score History at a Glance
 
 | Auditor | 2026-03-19 | 2026-03-23 | Trend | Notes |
-|---------|----------|----------|-------|-------|
-| ChatGPT | 9.5 | **9.7** | ↑ | Consistently high; tends toward optimistic scoring |
-| Claude | 8.9 | **9.4** | ↑ | Most critical reviewer; lowest scores in the series |
-| Copilot | 9.4 | **9.5** | ↑ | Smallest single‑cycle jump (+0.1); strong improvement recognition |
-| DeepSeek | 9.4 | **9.6** | ↑ | Consistent mid‑range scoring; balanced methodology |
-| Gemini |  10.0| **10.0**| → | Most generous reviewer; perfect score reflects lenient criteria |
-| Grok | 9.9 | **9.95** | ↑ | Highest baseline; limited score differentiation between cycles |
-| **Average** | **9.52** | **9.69** | ↑ | |
+|---------|-----------|-----------|-------|-------|
+| ChatGPT | 9.5 | **9.7** | ↑ | Added WHCP signature verification, proper pnputil exit‑code handling, per‑device driver mapping, and expanded HWID coverage. Enterprise‑grade improvements drove the increase. |
+| Claude | 8.9 | **9.4** | ↑ | Most rigorous reviewer. Previously flagged missing DEV IDs and temp‑path hardening; both are now addressed. pnputil exit‑code handling fixed. Score rose significantly as the only remaining findings are minor (coverage gap, ACLs). |
+| Copilot | 9.4 | **9.5** | ↑ | Noted WHCP validation, per‑DEV Wi‑Fi blocks, expanded hardware support, and improved installation reliability. The jump is small because the tool was already strong (9.4), and this release polished already‑solid areas. |
+| DeepSeek | 9.4 | **9.6** | ↑ | Emphasised WHCP digital signature verification, per‑device version/date tracking, and the refactored Wi‑Fi parser. Security rating rose from 9.5 to 9.8 in their methodology, reflected in the overall score increase. |
+| Gemini | 10.0 | **10.0** | → | Already awarded a perfect score in the previous cycle. The new WHCP layer and legacy device support were considered masterful additions that maintain the tool’s flawless status. |
+| Grok | 9.9 | **9.95** | ↑ | WHCP verification, per‑DEV blocks, and the hotfix for the auto‑update bug brought the tool to parity with the chipset updater’s security level. The minuscule deduction remains only for project youth, not any technical issue. |
+| **Average** | **9.52** | **9.69** | ↑ | The average rose by 0.17, reflecting consistent improvement across all evaluators, with Claude showing the largest absolute gain (+0.5). |
 
 ---
 
