@@ -1,0 +1,3 @@
+SHA256 = 8F366B791535A03D2E68A552FF60BF1D7D45D3F4E5F23479B8A93FF9BCF56515
+Link = https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/releases/download/archive-bt/intel_bt_24.30.1.1_pid0026.cab
+Backup = http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2026/03/1221b31b-11e6-43ae-95be-12f69d739f08_820910ba702e71225ae05f840ac6898352497fdf.cab
