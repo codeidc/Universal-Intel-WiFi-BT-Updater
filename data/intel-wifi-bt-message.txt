@@ -1,0 +1,30 @@
+[Magenta]
+[Magenta] SUPPORT THIS PROJECT
+[Magenta] ====================
+
+ This project is maintained in my free time.
+ Your support ensures regular updates and compatibility.
+
+ Support options:
+
+[Green] - PayPal Donation:[Yellow] tinyurl.com/fet-paypal[Gray] - press [Black,Gray][P][Gray,Black] key
+[Green] - Buy Me a Coffee:[Yellow] tinyurl.com/fet-coffee[Gray] - press [Black,Gray][C][Gray,Black] key
+[Green] - GitHub Sponsors:[Yellow] tinyurl.com/fet-github[Gray] - press [Black,Gray][G][Gray,Black] key
+
+ If this project helped you, please consider:
+
+[Green] - Giving it a STAR on GitHub
+[Green] - Sharing with friends and colleagues
+[Green] - Reporting issues or suggesting features
+[Green] - Supporting development financially
+
+[Magenta]
+[Magenta] CAREER OPPORTUNITY
+[Magenta] ==================
+
+ I'm currently seeking new challenges where I can apply my expertise
+ in solving complex IT infrastructure problems. If your organization
+ struggles with system compatibility, automation, or tooling gaps,
+ let's discuss how I can help.
+
+[Green] - Connect with me:[Yellow] linkedin.com/in/marcin-grygiel[Gray] - press [Black,Gray][L][Gray,Black] key
